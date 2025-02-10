@@ -1,3 +1,7 @@
+## 📊 Dataset
+The original dataset can be downloaded from (https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv).
+
+
 -- MySQL dump 10.13  Distrib 8.0.40, for macos14 (arm64)
 --
 -- Host: localhost    Database: world_layoffs
